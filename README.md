@@ -16,7 +16,7 @@ A simple yet powerful budget calculator that lets users input income and expense
 ## Getting Started
 
 ```bash
-git clone https://github.com/yourusername/smartbudget.git
+git clone https://github.com/Ronel1409/smartbudget.git
 cd smartbudget
 npm install
 npm start
